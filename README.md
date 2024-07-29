@@ -76,4 +76,4 @@ Make your changes and ensure that they work correctly.
 Submit a pull request with a clear description of the changes.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/sai-sp/Election-AD-Spending-Analysis/tree/main?tab=MIT-1-ov-file#MIT-1-ov-file) file for more details.
