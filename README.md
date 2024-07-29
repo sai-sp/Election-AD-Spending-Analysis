@@ -34,7 +34,8 @@ pip (Python package installer)
 1. Clone the repository:
 
    ```bash
-   git clone
+   git clone https://github.com/sai-sp/Election-AD-Spending-Analysis.git
+   cd Election AD Spending Analysis
 
 # Usage
 
