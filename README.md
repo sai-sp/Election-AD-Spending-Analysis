@@ -45,9 +45,9 @@ Run the main analysis script: ***IPL 2024 Data Analysis using Pandas and Matplot
 
 The dataset used in this analysis includes:
 
-• results.csv
-• advertisers.csv 
-• locations.csv
+results.csv
+advertisers.csv 
+locations.csv
 
 These three csv files are compressed and available as a Datasets.zip file
 
